@@ -33,3 +33,14 @@
 /doc/doxygen/latex
 /doc/doxygen/xml
 /doc/sphinx/_build
+
+#### Python files
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ipython notebooks
+.ipynb_checkpoints
+
+
